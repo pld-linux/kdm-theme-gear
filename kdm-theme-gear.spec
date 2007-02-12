@@ -2,7 +2,7 @@
 %define		_theme		gear
 
 Summary:	Gear KDM theme
-Summary(pl):	Motyw KDM Gear
+Summary(pl.UTF-8):   Motyw KDM Gear
 Name:		kdm-theme-%{_theme}
 Version:	01
 Release:	2
@@ -19,7 +19,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Gear KDM Theme.
 
-%description -l pl
+%description -l pl.UTF-8
 Motyw KDM Gear.
 
 %prep
