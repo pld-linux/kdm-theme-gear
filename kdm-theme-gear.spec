@@ -2,7 +2,7 @@
 %define		_theme		gear
 
 Summary:	Gear KDM theme
-Summary(pl.UTF-8):   Motyw KDM Gear
+Summary(pl.UTF-8):	Motyw KDM Gear
 Name:		kdm-theme-%{_theme}
 Version:	01
 Release:	2
